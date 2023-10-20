@@ -1,4 +1,4 @@
-![MasterHead](sahunitin023/LinkedinBanner.jpeg)
+![MasterHead](LinkedinBanner.jpeg)
 <h1 align="left">Hey there🙋‍♂️, It's Nitin!!</h1>
 <h3 align="left">Your friendly Neighborhood Flutter Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://ravisah.in/images/mobile-app-development.gif">

@@ -1,11 +1,11 @@
 
 <h1 align="left">Hey there🙋‍♂️, It's Nitin!!</h1>
-<h3 align="left">Your friendly Neighborhood Flutter Developer from India</h3>
+<h3 align="left">Your friendly Neighborhood Python & Flutter Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://ravisah.in/images/mobile-app-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahunitin023&label=Profile%20views&color=0e75b6&style=flat" alt="sahunitin023" /> </p>
 
-- 🔭 I’m currently working on Django REST Framework
+- 🔭 I’m currently working on the Django REST Framework
 
 - 🌱 I’m currently learning **Python Libraries and Django REST**
 

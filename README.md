@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahunitin023&label=Profile%20views&color=0e75b6&style=flat" alt="sahunitin023" /> </p>
 
-- 🔭 I’m currently working on [FarmSanta Flutter Application](https://play.google.com/store/apps/details?id=com.farmsanta.farmer)
+- 🔭 I’m currently working on Django REST Framework
 
-- 🌱 I’m currently learning **BLoC, Hive, VelocityX & Python Libraries.**
+- 🌱 I’m currently learning **Python Libraries and Django REST**
 
-- 💬 Ask me about **Flutter, Dart, Google Cloud & C/C++.**
+- 💬 Ask me about **Python, Django, Flutter, Dart, Google Cloud & C/C++.**
 
 - 📫 How to reach me **nitinsahu023@gmail.com**
 
-- 📄 Know about my experiences 👉 [My Resume](https://drive.google.com/file/d/1ytdz7UIb38qzdUWLFoX5_HMvfXidM7IN/view?usp=share_link)
+- 📄 Know about my experiences 👉 [My Resume](https://drive.google.com/file/d/1-M4QVSer5IwGRlwnxSs8bZuX2xNxJl1e/view?usp=sharing)
 
 - ⚡ Fun fact **"It's never enough"**
 

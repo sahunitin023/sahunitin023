@@ -5,24 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahunitin023&label=Profile%20views&color=0e75b6&style=flat" alt="sahunitin023" /> </p>
 
-- 🔭 I’m currently working on the Django REST Framework
 
-- 🌱 I’m currently learning **Python Libraries and Django REST**
+- 🌱 I’m currently learning **Python Libraries, Django REST framework and PostgreSQL**
 
 - 💬 Ask me about **Python, Django, Flutter, Dart, Google Cloud & C/C++.**
 
 - 📫 How to reach me **nitinsahu023@gmail.com**
 
-- 📄 Know about my experiences 👉 [My Resume](https://drive.google.com/file/d/1-M4QVSer5IwGRlwnxSs8bZuX2xNxJl1e/view?usp=sharing)
+- 📄 Know about my experiences 👉 [My Resume](https://drive.google.com/file/d/13HISIR88soRUw0O12LAXcCM3GEbJuYAJ/view?usp=sharing)
 
 - ⚡ Fun fact **"It's never enough"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/x_ception01" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="x_ception01" height="40" width="40" /></a>
+<a href="https://twitter.com/nitinsahu_01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="nitinsahu_01" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/nitinchandrasahu" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="nitinchandrasahu" height="40" width="40" /></a>
 <a href="https://instagram.com/_nitinsahu.07" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="_nitinsahu.07" height="40" width="40" /></a>
-<a href="https://hashnode.com/@nitinsahu07" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@nitinsahu07" height="40" width="40" /></a>
+<a href="https://nitinsahu.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@nitinsahu07" height="40" width="40" /></a>
 <a href="https://medium.com/@nitinsahu023" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="@nitinsahu023" height="40" width="40" /></a>
 <a href="https://www.youtube.com/@nitinchandrasahu1774" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-icon-transparent---32.png" height="40" width="50" /></a>
 </p>

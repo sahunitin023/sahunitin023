@@ -1,14 +1,17 @@
 ![LinkedIn Banner](Banner.png)
 <h1 align="left">Hey there🙋‍♂️, It's Nitin!!</h1>
-<h3 align="left">Your friendly Neighborhood Python & Flutter Developer from India</h3>
+<h3 align="left">Your friendly Neighborhood Full Stack Android App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ravisah.in/images/mobile-app-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahunitin023&label=Profile%20views&color=0e75b6&style=flat" alt="sahunitin023" /> </p>
 
+- 📱 I build **Full Stack Mobile Applications for Startups**.
 
-- 🌱 I’m currently learning **Python Libraries, Django REST framework and PostgreSQL**
+- 📝 I write 👉 [My Blog](https://nitinsahu.hashnode.dev/)
 
-- 💬 Ask me about **Python, Django, Flutter, Dart, Google Cloud & C/C++.**
+- 🌱 I’m currently learning **Python Libraries, Django REST framework and PostgreSQL**.
+
+- 💬 Ask me about **Python, Django, Flutter, Dart, Google Cloud & C/C++**.
 
 - 📫 How to reach me **nitinsahu023@gmail.com**
 

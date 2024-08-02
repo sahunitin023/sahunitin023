@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nitinsahu023@gmail.com**
 
-- 📄 Know about my experiences 👉 [My Resume](https://drive.google.com/file/d/13HISIR88soRUw0O12LAXcCM3GEbJuYAJ/view?usp=sharing)
+- 📄 Know about my experiences 👉 [My Resume](https://drive.google.com/file/d/1WguSfZY0DbvakNc0tSBEKITPMH15IIWa/view?usp=sharing)
 
 - ⚡ Fun fact **"It's never enough"**
 

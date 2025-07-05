@@ -9,13 +9,13 @@
 
 - 📝 I write 👉 [My Blog](https://nitinsahu.hashnode.dev/)
 
-- 🌱 I’m currently learning **Python Libraries, Django REST framework and PostgreSQL**.
+- 🌱 I’m currently learning **.NET Core, Microservices, System Design**.
 
 - 💬 Ask me about **Python, Django, Flutter, Dart, Google Cloud & C/C++**.
 
 - 📫 How to reach me **nitinsahu023@gmail.com**
 
-- 📄 Know about my experiences 👉 [My Resume](https://drive.google.com/file/d/1-cHFB4Q_MnrmazPTCPCyM5pVhglWccLS/view?usp=sharing)
+- 📄 Know about my experiences 👉 [My Resume](https://drive.google.com/file/d/1-tL-TuoCYEjoXI9xj3XrR-SxpQ8bx9XJ/view?usp=sharing)
 
 - ⚡ Fun fact **"It's never enough"**
 
